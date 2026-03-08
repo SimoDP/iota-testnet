@@ -1,0 +1,1053 @@
+==============================================================
+Guild: IOTA Builders
+Channel: DevRel Events / masterz-hackathon
+==============================================================
+
+[19/01/2026 16:32] masterzxiota
+📢 MasterZ × IOTA Hackathon – Official Announcements Channel
+
+This channel will be used for all official updates related to the MasterZ × IOTA Hackathon.
+
+Here you’ll find:
+
+📌 important announcements
+🗓️ timeline updates
+⏰ deadlines and reminders
+🎓 workshops and live sessions
+🏁 final stage and awards updates
+
+Please make sure to turn notifications on so you don’t miss any important information.
+
+More updates coming soon 🚀
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1462832045188190208/MasterZxIOTA_3.png?ex=69ae3f41&is=69acedc1&hm=5690f8384d8c2a36b6e70980a902109fa340854783f54fb80f2d353d776e7c0a&
+
+{Reactions}
+🔥 (15) 💯 (6) 🚀 (2)
+
+[21/01/2026 09:11] masterzxiota (pinned)
+🚀 THIS IS THE MOMENT TO DEFINE YOUR PROJECT 🚀
+
+This is the right time to clearly define the problem you want to solve, shape a solid solution, and start thinking seriously about your MVP.
+
+🏆To support you in this phase, we’ve released a short, practical guide designed to help you maximize your chances of winning the MasterZ × IOTA Hackathon 
+
+📘 In this manual you’ll find:
+
+🔍 How to identify a real problem worth solving
+
+🧠 How to design a strong solution (tech + product + business relevance)
+
+🚫 The most common mistakes to avoid
+
+🧩 At the end, official IOTA resources so you can start reviewing the documentation right away
+
+👉 Access the guide here:
+https://drive.google.com/drive/folders/1jvYoY96Xk_t43fHVk6S7jE_8USoWEISu?usp=sharing
+
+
+Remember: simple is beautiful. Simplicity wins.
+
+Let’s build something real 🚀🔥
+
+@everyone
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1463445811353616490/MasterZxIOTA_4.png?ex=69ae809e&is=69ad2f1e&hm=8288bbab48970711c7c07a7da69216e9f025cdac7260d0c159289d0080a654ee&
+
+{Embed}
+https://drive.google.com/drive/folders/1jvYoY96Xk_t43fHVk6S7jE_8USoWEISu?usp=sharing
+
+{Reactions}
+🔥 (6) ✨
+
+[21/01/2026 09:44] masterzxiota
+Pinned a message.
+
+
+[21/01/2026 13:14] masterzxiota
+The MasterZ × IOTA Hackathon takes you from guided learning to building real Web3 products
+
+Read the Full article here👉 https://blog.iota.org/masterz-hackathon/
+
+{Embed}
+https://blog.iota.org/masterz-hackathon/
+MasterZ × IOTA Launch Europe’s Next Generation of Builders
+MasterZ and IOTA are launching a fully online European hackathon (Feb–Mar 2026) that starts with guided learning and leads to building real Web3 products. Top teams present in Berlin, with opportunities for grants, incubation, and long-term ecosystem collaboration.
+https://images-ext-1.discordapp.net/external/s9ZAI0q9U_jbFZ1H1SDWznp02Aa7TIXISr7LTfkzAwo/https/blog.iota.org/content/images/2026/01/2227_IOTA-Master-Z-Hackathon_16x9-1.png
+
+{Reactions}
+🔥 (4) 💪 (2)
+
+[23/01/2026 09:28] masterzxiota
+🌊 Build your project in a Blue Ocean
+
+As Dom Schiener (IOTA) highlights here 👉 https://x.com/DomSchiener/status/2014342420998066191
+
+The biggest opportunities in Web3 come from solving real problems.
+
+For this hackathon, keep it simple and focused:
+• identify a real problem
+• choose one IOTA ID, Notarization, asset tokenization
+• build a working MVP on IOTA mainnet
+
+Complexity doesn’t win.
+Clarity, usefulness, and execution do.
+
+If you’re unsure where to start, this is the moment to step back and ask:
+“What problem exists today that Web3 can finally solve properly?”
+
+Let’s build something meaningful 🌊🚀
+
+{Embed}
+Dominik Schiener (@DomSchiener)
+https://twitter.com/DomSchiener/status/2014342420998066191
+IOTA Manifesto: The World Onchain
+https://images-ext-1.discordapp.net/external/peLE4lfJ0rZY3vohKhNi4NgxCUhO4_xMEeWnHeOq7Ns/https/pbs.twimg.com/media/G_RiLL8WAAE0xZ7.jpg%3Alarge
+X
+
+{Reactions}
+💯 (9) 👏 (2) 🔥
+
+[27/01/2026 09:24] masterzxiota
+🎯 Hackathon MVP – start simple
+
+Quick reminder for everyone 👇
+For the hackathon, the goal is not to build a complete product, but a clear and focused MVP.
+
+What we recommend:
+
+1)start from one clear problem
+
+2)design one core feature that solves it
+
+3)keep everything simple, light, and testable
+
+A good MVP shows:
+
+1)clarity of the idea
+
+2)a solid use case
+
+3)a realistic implementation in the given time
+
+Extra features can always go into a future roadmap.
+
+Focus on the core first 🚀
+
+If you have doubts on scope, concept, or how to simplify your idea, feel free to ask here or book a call with the MasterZ team.
+
+👉 https://calendly.com/masterz/masterzxiota-clone
+
+@MasterZ
+
+{Embed}
+https://calendly.com/masterz/masterzxiota-clone
+Road to MVP MasterZxIOTA  - MasterZ Team
+MasterZ × IOTA Hackathon | Road to MVP (15 min)This call is dedicated to sharing best practices for developing the MVP for the MasterZxIOTA hackathon.This call is a space intended for:➡️Sharing ideas about the MVP➡️Defining useful best practices for building the MVP➡️Providing insights to lay the
+https://images-ext-1.discordapp.net/external/XOjJWfr5qLVxIwO1EvfUh5XrtLYLZvx7hQscwlCLfKs/%3Fsource%3Dopengraph/https/d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/11886461/792331de.png
+
+{Reactions}
+🔥
+
+[27/01/2026 11:51] masterzxiota
+Richard Mands and his team are already available to support MasterZ × IOTA Hackathon builders in the dedicated groups we’ve created.
+
+Often, in this phase before the lessons begin, you may have questions about the IOTA documentation or any other doubts related to your MVP. That’s exactly why we’re here: to support you directly in the dedicated groups with each team.🚀
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1465660505505923125/Richard_mands_Head_of_Dev_Rel_iota.png?ex=69adfd77&is=69acabf7&hm=ae320af8cb33409db44cb0a86bbb0f31b747aa8683961aa861a33594cca7c104&
+
+{Reactions}
+💯 (4) ❤️ (3) 🔥 (3)
+
+[28/01/2026 16:10] masterzxiota
+MasterZ × IOTA Hackathon
+
+⚒️ Building phase – Evaluation rules-Remind
+
+To be eligible for evaluation, your project must meet these requirements:
+
+Real-world problem
+The project must address a concrete, real-world use case.
+
+Built on IOTA Layer 1
+The core logic must be developed directly on IOTA Testnet/Mainnet (IOTA L1-Move)
+
+Use of IOTA services
+The solution must integrate at least one of the following:
+
+IOTA Digital Identity
+
+IOTA Notarization
+
+IOTA Hierarchies  (Anything from the trust framework) https://docs.iota.org/developer/iota-trust-framework
+
+or
+
+IOTA Tokenization
+
+Working MVP
+Deliver a functional MVP that clearly demonstrates the core value of the solution.
+
+The focus is on feasibility, clarity, and real adoption potential, not on feature completeness.
+
+@MasterZ
+
+{Embed}
+https://docs.iota.org/developer/iota-trust-framework
+IOTA Trust Framework | IOTA Documentation
+IOTA Trust Framework
+
+{Reactions}
+👍 (15) 🫡 (2) 👀
+
+[29/01/2026 16:22] masterzxiota (pinned)
+📢 IOTA Hackathon – Training Announcement
+
+The training calendar is live.
+You can already check the documentation links to explore the topics before the live sessions.
+
+We recommend starting early and getting your hands dirty.
+Arriving prepared means using the live sessions to clear doubts and move faster.
+
+Before the first workshop:
+• define your MVP
+• explore IOTA tools 📚
+• try to build a first version 🛠️
+
+Build early. Break things. Come prepared. 🚀
+
+📅 MasterZ × IOTA Hackathon – Training Calendar
+
+Core 1
+📆 Wed 18 Feb
+⏰ 6:00 PM CET
+👉 find the lesson material here
+https://docs.iota.org/developer/workshops/core/I-introduction-to-smart-contracts
+
+Core 2
+📆 Sat 21 Feb
+⏰ 10:00 AM CET
+👉 find the lesson material here
+https://docs.iota.org/developer/workshops/core/II-shared-objects-dynamic-fields-ptbs
+
+Core 3
+📆 Wed 25 Feb
+⏰ 6:00 PM CET
+👉 find the lesson material here
+https://docs.iota.org/developer/workshops/core/III-capabilities-state-tests
+
+IOTA Notarization
+📆 Sat 28 Feb
+⏰ 10:00 AM CET
+👉 find the lesson material here
+https://docs.iota.org/developer/workshops/iota-notarization-truedoc
+
+IOTA Identity
+📆 Wed 3 Mar
+⏰ 6:00 PM CET
+👉 find the lesson material here
+https://docs.iota.org/developer/workshops/identity-workshop
+
+Gas Station
+📆 Sat 7 Mar
+⏰ 10:00 AM CET
+👉 find the lesson material here
+https://docs.iota.org/developer/workshops/gas-station-workshop
+
+Notes
+Workshop links
+👉 You will find the access link directly in your calendar invitation.
+
+Q&A format
+Questions can be asked via chat during the live session.
+If there is not enough time, questions can be continued inside the dedicated private Discord group with the MasterZ and IOTA teams.
+
+On-demand access
+All sessions will be available on demand within 24 hours and sent via email.
+@MasterZ
+
+{Embed}
+https://docs.iota.org/developer/workshops/core/I-introduction-to-smart-contracts
+Workshop I Practical — IOTA Move Foundations | IOTA Documentation
+Publish, authorize, mint, and verify — implement a core Move function as part of a hands-on package publish on IOTA.
+
+{Embed}
+https://docs.iota.org/developer/workshops/core/II-shared-objects-dynamic-fields-ptbs
+Workshop II Practical — Shared State, Indexing & PTBs | IOTA Docu...
+Create a shared Registry, index student-to-grant IDs, and compose an atomic Programmable Transaction Block (PTB) that mints and indexes in one go.
+
+{Embed}
+https://docs.iota.org/developer/workshops/core/III-capabilities-state-tests
+Workshop III Practical — Capabilities, Type-State, Abilities & Te...
+Harden ScholarFlow with multi‑role capabilities, lifecycle guards, ability audits, and Move unit tests. No SDK/event code here; that comes in Workshop IV.
+
+{Embed}
+https://docs.iota.org/developer/workshops/iota-notarization-truedoc
+Workshop IOTA Notarization with TrueDoc | IOTA Documentation
+Complete tutorial for building on-chain notarization on IOTA
+
+{Embed}
+https://docs.iota.org/developer/workshops/identity-workshop
+IOTA Identity Workshop | IOTA Documentation
+Workshop on Validating a University Degree using IOTA Identity
+
+{Reactions}
+😀 (8) 👀 (4) 🚀 (16) 🥳 (4) ✅ (4) 💯 (2) 🔥 (3) 👍
+
+[29/01/2026 16:22] masterzxiota
+Pinned a message.
+
+
+[02/02/2026 14:31] masterzxiota
+🚨 THIS IS A ONCE-IN-A-LIFETIME OPPORTUNITY 🚨
+
+From now until March 31, you’ll get something that almost never happens 👇
+
+🔥 Direct access to the entire MasterZ team
+🔥 Direct access to the entire IOTA team
+🔥 Private Discord group
+🔥 No filters. No intermediaries. Real support.
+
+This means:
+• Ask technical questions and get real answers
+• Get feedback directly from the people building the tech
+• Move faster than everyone else
+• Build with support, not in isolation
+
+Opportunities like this don’t exist in normal hackathons.
+This is not content.
+This is access.
+
+If you’re here to build seriously, this is your moment.
+Make the most of it 🚀
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1467875103328178363/Richard_mands_Head_of_Dev_Rel_iota_1.png?ex=69ae22f8&is=69acd178&hm=ecd55ae8d121b86bfa272d911fcb84d7351316cad5904d8c064aaa3f17e2e9ce&
+
+{Reactions}
+🚀 (15) 🔥 (11)
+
+[06/02/2026 14:36] masterzxiota
+🔥 LET’S ADD SOME SPICE 🔥
+
+At this hackathon, we’re kicking things off with the Build Now Contest, running from now until February 23.
+There are two incredible prizes up for grabs.
+
+⏳ Important reminder
+
+The final MVP delivery deadline for the hackathon is March 31.
+This contest is here to help you start early, build better, and arrive stronger at the final delivery.
+
+Are you ready? 🚀
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1469325942185922684/Richard_mands_Head_of_Dev_Rel_iota_2.png?ex=69ae242b&is=69acd2ab&hm=b90227bce033b53aa359f44d4cf6a00269a5127b21b49cacb7afe7d1d2719ba7&
+
+{Reactions}
+carlos1 (2) 🔥 (9) 💯 (2) 🚀 (2)
+
+[06/02/2026 16:00] masterzxiota (pinned)
+🚀 OFFICIAL ANNOUNCEMENT – BUILD FIRST, LEARN FASTER 
+🚀 Gain visibility in the IOTA ecosystem/Refine your first real product
+
+
+At MasterZ, we believe in learn by building, and this challenge is designed to do exactly that.
+
+From now until February 23, you can take part in the MasterZ × IOTA Hackathon Build Contest 
+Submit your project here:
+https://forms.gle/sSU2DBKyFvdh2QGm7
+
+ Why participate?
+
+Gain visibility in the IOTA ecosystem
+By submitting by February 23, you unlock two exceptional opportunities:
+👉 be featured in an official IOTA blog post
+👉 gain visibility with the IOTA team and ecosystem, position your team early as serious builders in the hackathon
+
+Refine your first real product
+shape the user experience of your MVPget early feedback and build momentum before March
+
+
+ What you need to submit (by February 23)
+
+Problem & solutionMVP screenshots (early or rough is totally fine)
+The IOTA service you plan to use
+An early, high-level overview of your system architecture
+A short description of your project and its value proposition (this will be used for the IOTA blog)
+
+What you get
+
+By submitting by February 23 11.59 PM CET, you unlock two exceptional opportunities:
+
+🔥 Official publication on the IOTA Blog
+Your project will be featured in a dedicated IOTA blog post during the last week of February, as part of the MasterZ × IOTA Hackathon.
+
+ 🔥 Access to a private online event with the IOTA Foundation (Product Adoption Team)
+
+
+Important reminder
+
+🛠️ The final MVP delivery deadline for the hackathon is March 31.
+This contest is here to help you start early, build better, and arrive stronger at the final delivery.
+
+
+From now until February 23 11.59 PM CET, you can take part in the MasterZ × IOTA Hackathon Build Contest 
+Submit your project here:
+https://forms.gle/sSU2DBKyFvdh2QGm7
+
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1469347052554158353/Richard_mands_Head_of_Dev_Rel_iota_3.png?ex=69ae37d4&is=69ace654&hm=f3bdee72394ad35a5fa48c46203abd5b3e6a3381962f26e1787073639257be72&
+
+{Embed}
+https://forms.gle/sSU2DBKyFvdh2QGm7
+Build NOW Contest MasterZxIOTA Hackathon
+Please fill in all the sections below.
+The intellectual property of all projects remains with the developers and their respective teams. This activity is intended solely to support teams in the best possible way during the hackathon.
+You can keep things high-level and simple — this is about clarity, not perfection.
+https://images-ext-1.discordapp.net/external/4hGxczuM45asDJAyTKk4BJixQmivoJJm048mfDl-wuI/https/lh5.googleusercontent.com/lmu2Kpi5bs0xNAvwQiKXsBz8JtmiqUatFKL3ntOJM3QSVbB62jQUmGrHnFmvN8ao2kd7SJhGYBeSqaI%3Dw1200-h630-p
+
+{Reactions}
+🔥 (19) 👍 (3) 🚀 (3)
+
+[06/02/2026 16:02] masterzxiota
+Pinned a message.
+
+
+[10/02/2026 10:27] masterzxiota
+Have you already accepted the server rules?
+
+Without that, you won’t be able to fully access and benefit from IOTA support.
+Please make sure you’ve accepted the server rules here https://discord.com/channels/912718559954747442/1316225274303746058
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1470712702421958708/Aggiungi_un_sottotitolo_2.png?ex=69ae9270&is=69ad40f0&hm=fccac2b73e75ebd78310f622adef31eedfb639ea7afd2ea8be63ddff4e685f80&
+
+{Reactions}
+👍 (7)
+
+[10/02/2026 10:29] dr.electron
+Accept the rules in#acknowledge-server-rules by clicking on ✅. Afterwards you should see channels like #⚡｜dev-general or #🆔｜identity-trust-framework-dev an so on for your specific questions. Happy building ♥️
+
+{Reactions}
+👍 (4)
+
+[10/02/2026 10:31] dr.electron
+
+
+{Stickers}
+https://cdn.discordapp.com/stickers/863884915282935808.png
+
+{Reactions}
+❤️ (10)
+
+[11/02/2026 09:47] masterzxiota
+🚀 OFFICIAL ANNOUNCEMENT – BUILD FIRST, LEARN FASTER
+
+At MasterZ, we believe in learn by building.
+
+From now until February 23, you can join the MasterZ × IOTA Hackathon Build Contest and position your team early as serious builders.
+
+👉 Submit your project here:
+https://forms.gle/sSU2DBKyFvdh2QGm7
+
+🔥 Why participate?
+
+Because this is not just a contest.
+
+If you submit by February 23, your project can be:
+
+📝 Published on the official IOTA Blog
+📢 Amplified on X, where IOTA has 250,000+ followers
+🌍 Exposed directly to the IOTA ecosystem and core team
+
+This is real visibility. Real positioning. Real credibility.
+
+You will also get:
+
+🎓 Access to a private online session with the IOTA Foundation Product Adoption Team, focused on helping you refine your MVP and execution before the final deadline.
+
+📌 What to submit
+
+Problem & solution
+
+Early MVP screenshots (rough is fine)
+
+IOTA service you plan to use
+
+High-level architecture overview
+
+Short value proposition (used for the blog)
+
+⏳ Final MVP deadline: March 31
+This contest helps you start early and arrive stronger.
+
+🚀 Ready to build?
+https://forms.gle/sSU2DBKyFvdh2QGm7
+
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1471064997252694120/Screenshot_2026-02-11_alle_09.43.12.png?ex=69ae890a&is=69ad378a&hm=7353f77ff5cc6a4bbcf8d6b9442a67bd4e39181eef3e2ddf8a227c4027e0c159&
+
+{Embed}
+https://forms.gle/sSU2DBKyFvdh2QGm7
+Build NOW Contest MasterZxIOTA Hackathon
+Please fill in all the sections below.
+The intellectual property of all projects remains with the developers and their respective teams. This activity is intended solely to support teams in the best possible way during the hackathon.
+You can keep things high-level and simple — this is about clarity, not perfection.
+https://images-ext-1.discordapp.net/external/4hGxczuM45asDJAyTKk4BJixQmivoJJm048mfDl-wuI/https/lh5.googleusercontent.com/lmu2Kpi5bs0xNAvwQiKXsBz8JtmiqUatFKL3ntOJM3QSVbB62jQUmGrHnFmvN8ao2kd7SJhGYBeSqaI%3Dw1200-h630-p
+
+{Reactions}
+🚀 (12) 🔥
+
+[12/02/2026 14:22] masterzxiota
+Here are some promising projects participating in the Build Now Contest:
+
+🪪 LuxPass – Digital product passport
+🎁 GiftBlitz – Tradable gift cards
+🏦 NPLEX – NPL tokenization platform
+🛴 Synap – Micro mobility payments
+🔍 VeriPura – Supply chain traceability
+
+If you're building in the same areas as these projects, don’t panic. Remember that every MVP is different — and that’s exactly where the real value lies.
+
+Submit your problem/solution and provisional MVP screenshots and win:
+📝 Publication on the IOTA Blog
+🎓 A dedicated session with the IOTA Product Adoption Team
+
+Submit your idea here so we can understand your direction, join the contest, and unlock incredible opportunities along with targeted support 🚀
+Apply here before 23 February https://forms.gle/sSU2DBKyFvdh2QGm7
+Roules: https://discord.com/channels/912718559954747442/1460574750647783434/1469347052147179622
+
+@MasterZ
+
+{Embed}
+https://forms.gle/sSU2DBKyFvdh2QGm7
+Build NOW Contest MasterZxIOTA Hackathon
+Please fill in all the sections below.
+The intellectual property of all projects remains with the developers and their respective teams. This activity is intended solely to support teams in the best possible way during the hackathon.
+You can keep things high-level and simple — this is about clarity, not perfection.
+https://images-ext-1.discordapp.net/external/4hGxczuM45asDJAyTKk4BJixQmivoJJm048mfDl-wuI/https/lh5.googleusercontent.com/lmu2Kpi5bs0xNAvwQiKXsBz8JtmiqUatFKL3ntOJM3QSVbB62jQUmGrHnFmvN8ao2kd7SJhGYBeSqaI%3Dw1200-h630-p
+
+{Reactions}
+👀 (7) 🛠️ (4) ❤️
+
+[16/02/2026 17:01] masterzxiota
+🚀 MASTERZ × IOTA – CORE 1 | LESSON 1
+
+The first session of the Core 1 track is here.
+
+📅 Wednesday, February 18, 2026
+🕕 6:00 PM CET
+
+🎯 Topic: Introduction to Smart Contracts
+👉 https://docs.iota.org/developer/workshops/core/I-introduction-to-smart-contracts
+
+This session is essential to understand the fundamentals of smart contracts within the IOTA ecosystem and prepare for the upcoming hackathon build phase.
+
+🔗 Live link: you can find it in your Calendar.
+If you cannot find it, contact us at masterz@masterzblockchain.com
+
+Do not miss it. Core 1 is where it all starts 🔥
+
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1472986273647169739/MasterZxIOTA_11.png?ex=69ae461e&is=69acf49e&hm=f5e3c5c258ceb476ac11e9e25889ce583345a1aa06d43aeb0707441052cb8309&
+
+{Embed}
+https://docs.iota.org/developer/workshops/core/I-introduction-to-smart-contracts
+Workshop I Practical — IOTA Move Foundations | IOTA Documentation
+Publish, authorize, mint, and verify — implement a core Move function as part of a hands-on package publish on IOTA.
+
+{Reactions}
+💯 (4) 😎 (5) 🫡 (5)
+
+[17/02/2026 09:49] masterzxiota
+Here are other promising projects that have participated in the Build Now Challenge, which closes on February 23.
+
+We remind you that to participate in the challenge, you do not need to fully develop the entire product. It is enough to clearly define the problem, the solution, and provide some key information about your project.
+
+📡 IOTA OLT Monitor – Real time infrastructure notarization
+🧠 NOTIA – Deterministic semantic interoperability layer
+🧾 InvoiceVault – Programmable invoice backed credit
+🎓 TrustCycle – On chain academic recommendations
+🔄 Flexi – Liquid real world memberships
+🧑‍💻 Freelancer Reputation Passport – Verifiable freelance reputation
+🌐 Vanity.box – Unified self sovereign identity layer
+
+Submit your problem/solution and provisional MVP screenshots and win:
+📝 Publication on the IOTA Blog
+🎓 A dedicated session with the IOTA Product Adoption Team
+
+
+🚀 Apply here before February 23:
+https://forms.gle/sSU2DBKyFvdh2QGm7
+
+
+@MasterZ
+
+{Embed}
+https://forms.gle/sSU2DBKyFvdh2QGm7
+Build NOW Contest MasterZxIOTA Hackathon
+Please fill in all the sections below.
+The intellectual property of all projects remains with the developers and their respective teams. This activity is intended solely to support teams in the best possible way during the hackathon.
+You can keep things high-level and simple — this is about clarity, not perfection.
+https://images-ext-1.discordapp.net/external/4hGxczuM45asDJAyTKk4BJixQmivoJJm048mfDl-wuI/https/lh5.googleusercontent.com/lmu2Kpi5bs0xNAvwQiKXsBz8JtmiqUatFKL3ntOJM3QSVbB62jQUmGrHnFmvN8ao2kd7SJhGYBeSqaI%3Dw1200-h630-p
+
+{Reactions}
+❤️ (12) 💣
+
+[19/02/2026 18:38] masterzxiota
+🚀 Core 1 — Lesson 1: Introduction to Smart Contracts
+
+We officially kicked off Core 1 yesterday.
+A huge thank you to the 150+ participants who joined live. Amazing energy to start this journey together.
+
+In this first lesson, we covered the fundamentals of smart contracts and the IOTA Move
+
+📘 Documentation:
+👉 https://docs.iota.org/developer/workshops/core/I-introduction-to-smart-contracts
+
+🎥 Recording:
+👉 https://youtu.be/cnZdWhJuVq0
+
+If you have any questions about the lesson, please ask them in your private Discord group.
+
+🚀 Next Session — Core 2
+
+See you Saturday 21 at 10 AM for Lesson 2, focused on Core 2
+Reference material:
+👉 https://docs.iota.org/developer/workshops/core/II-shared-objects-dynamic-fields-ptbs
+
+📅 The live link is available in the Calendar.
+
+Let’s keep building. 💪
+
+@MasterZ
+
+{Embed}
+https://docs.iota.org/developer/workshops/core/I-introduction-to-smart-contracts
+Workshop I Practical — IOTA Move Foundations | IOTA Documentation
+Publish, authorize, mint, and verify — implement a core Move function as part of a hands-on package publish on IOTA.
+
+{Embed}
+MasterZ Blockchain & Digital Assets
+https://www.youtube.com/watch?v=cnZdWhJuVq0
+MasterZxIOTA Hackathon-CORE I
+Workshop I — Practical
+IOTA Move Foundations
+
+You’ve seen the slides.
+Now it’s time to make Move objects come alive.
+
+In this workshop, you will build and ship a minimal ScholarFlow package that mints Grant objects for students.
+
+Link: https://docs.iota.org/developer/workshops/core/I-introduction-to-smart-contracts
+https://images-ext-1.discordapp.net/external/VVu_YyT3FEgMSfXY7061lUoZsNMvNivrKooUv66oVFw/https/i.ytimg.com/vi/cnZdWhJuVq0/sddefault.jpg
+
+{Embed}
+https://docs.iota.org/developer/workshops/core/II-shared-objects-dynamic-fields-ptbs
+Workshop II Practical — Shared State, Indexing & PTBs | IOTA Docu...
+Create a shared Registry, index student-to-grant IDs, and compose an atomic Programmable Transaction Block (PTB) that mints and indexes in one go.
+
+{Reactions}
+💯 (4) 🔥 (6) 💪 (2) 4f2d78571b22af30 (2) 🚀
+
+[20/02/2026 15:30] masterzxiota
+🚀 Saturday morning is for builders
+
+📌 Important info
+
+🕙 Tomorrow at 10:00 AM
+Core 2 session with the IOTA Foundation
+
+You can find the link directly in your calendar.
+
+⏳ Important deadline
+
+🗓 Monday, February 23 at 11:59 PM
+Build Now Contest deadline
+
+Submit your problem/solution here https://forms.gle/sSU2DBKyFvdh2QGm7 and provisional MVP screenshots and win:
+
+📝 Publication on the IOTA Blog
+🎓 A dedicated session with the IOTA Product Adoption Team
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1474412988294365275/MasterZxIOTA.png?ex=69ae30d9&is=69acdf59&hm=807c21987f3e7d3d57d74db960fbf4fa0219f10f3769a97ad75d3ca47c19b68f&
+
+{Embed}
+https://forms.gle/sSU2DBKyFvdh2QGm7
+Build NOW Contest MasterZxIOTA Hackathon
+Please fill in all the sections below.
+The intellectual property of all projects remains with the developers and their respective teams. This activity is intended solely to support teams in the best possible way during the hackathon.
+You can keep things high-level and simple — this is about clarity, not perfection.
+https://images-ext-1.discordapp.net/external/4hGxczuM45asDJAyTKk4BJixQmivoJJm048mfDl-wuI/https/lh5.googleusercontent.com/lmu2Kpi5bs0xNAvwQiKXsBz8JtmiqUatFKL3ntOJM3QSVbB62jQUmGrHnFmvN8ao2kd7SJhGYBeSqaI%3Dw1200-h630-p
+
+{Reactions}
+👍 (13) ✅ (4)
+
+[22/02/2026 11:03] masterzxiota
+🚀 Core 2 — Lesson 2 Recording Available
+
+Core 2 is officially live.
+
+In this session, we explored Shared Objects, Dynamic Fields & Programmable Transaction Blocks.
+This is where we move from simple owned objects to more advanced state management and structured on chain logic.
+
+📘 Documentation:
+👉 https://docs.iota.org/developer/workshops/core/II-shared-objects-dynamic-fields-ptbs
+
+🎥 Recording:
+👉 https://www.youtube.com/watch?v=aTwZir55hus
+
+If you have any questions about the lesson, please ask them in your private Discord group.
+
+🚀 Next Session — Core 3: Capabilities, State & Tests
+
+📅 Wednesday, February 25 at 6 PM
+
+In Core 3, we’ll dive into capabilities, state management, and smart contract testing.
+This is a key step toward writing production ready Move code.
+
+📘 Reference material:
+👉 https://docs.iota.org/developer/workshops/core/III-capabilities-state-tests
+
+⏰ Reminder — Build Now Contest
+
+The Build Now Contest deadline is tomorrow at 11:59 PM.
+
+Make sure your submission is completed and uploaded before the deadline.
+
+👉 https://discord.com/channels/912718559954747442/1460574750647783434/1471064996996714600
+
+
+@MasterZ
+
+{Embed}
+https://docs.iota.org/developer/workshops/core/II-shared-objects-dynamic-fields-ptbs
+Workshop II Practical — Shared State, Indexing & PTBs | IOTA Docu...
+Create a shared Registry, index student-to-grant IDs, and compose an atomic Programmable Transaction Block (PTB) that mints and indexes in one go.
+
+{Embed}
+MasterZ Blockchain & Digital Assets
+https://www.youtube.com/watch?v=aTwZir55hus
+MasterZxIOTA Hackathon-CORE II
+Workshop II — Practical
+Shared State, Indexing & PTBs
+
+Now it’s time to move beyond owned objects and build more advanced on-chain logic.
+
+In this workshop, you will extend your ScholarFlow package using shared objects, explore event and object indexing, and execute advanced interactions with Programmable Transaction Blocks.
+
+Link: https://d...
+https://images-ext-1.discordapp.net/external/8ryfTrsWXBKWW8YEbcLrN875R4mvo8Yhs58kNvC7fKs/https/i.ytimg.com/vi/aTwZir55hus/maxresdefault.jpg
+
+{Embed}
+https://docs.iota.org/developer/workshops/core/III-capabilities-state-tests
+Workshop III Practical — Capabilities, Type-State, Abilities & Te...
+Harden ScholarFlow with multi‑role capabilities, lifecycle guards, ability audits, and Move unit tests. No SDK/event code here; that comes in Workshop IV.
+
+{Reactions}
+🤝 (8) 💯 (3) 🔥 (4) 🚀 (2)
+
+[23/02/2026 20:36] masterzxiota
+🚨 🚨 🚨 11.59 PM CET
+https://discord.com/channels/912718559954747442/1460574750647783434/1469347052147179622
+@MasterZ
+
+{Reactions}
+⏰ 👀 (2) 🚀 (2)
+
+[24/02/2026 14:03] masterzxiota
+🚀 Build Now is officially closed.
+
+The quality of the submissions has been incredibly high.
+Huge respect to everyone who built, shipped, and pushed their projects forward.
+
+We’re currently reviewing everything and will share all the updates very soon.
+
+Meanwhile, we continue with the Core journey.
+
+🚀 Core 3 — Lesson 3: Capabilities, State & Tests
+
+We’re continuing our journey through the IOTA Move framework.
+
+📅 Tomorrow at 6:00 PM CET we go live with Core III. (link in your calendar)
+
+In this session, we will dive into:
+
+• Capabilities and access control
+• Advanced state management
+• Writing and running tests for smart contracts
+
+This is where smart contracts become production ready and structured for real world applications.
+
+📘 Documentation:
+👉 https://docs.iota.org/developer/workshops/core/III-capabilities-state-tests
+
+If you missed previous sessions, you can catch up here:
+
+🚀 Core 1 — Introduction to Smart Contracts
+Documentation:
+👉 https://docs.iota.org/developer/workshops/core/I-introduction-to-smart-contracts
+
+🎥 Recording:
+👉 https://youtu.be/cnZdWhJuVq0
+
+🚀 Core 2 — Shared Objects, Dynamic Fields & PTBs
+Documentation:
+👉 https://docs.iota.org/developer/workshops/core/II-shared-objects-dynamic-fields-ptbs
+
+🎥 Recording:
+👉 https://www.youtube.com/watch?v=aTwZir55hus
+
+📅 The live link is available in the Calendar.
+
+Let’s keep building. 💪See you Tomorrow
+
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1475840543886934026/MasterZxIOTA_1.png?ex=69ae1c5d&is=69accadd&hm=4f036e4f4001f448ecab05521fe15254dad8f7bf9ead405c5b64ef0834447baa&
+
+{Reactions}
+👀 (3) 🫡 (6) 💪 (3) 🔥 (6) ✅
+
+[26/02/2026 15:38] masterzxiota (pinned)
+🔥 For all participants of the Build Now Contest, the blog post is now live both on X:
+https://x.com/iota/status/2027020833659506873?s=20
+
+and on LinkedIn:
+https://www.linkedin.com/posts/iotafoundation_the-masterzblockchain-digital-assets-activity-7432786527459495936-MUk1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOf8yIBdidopOOFWRCy2XJqu3l_yb_5lqQ
+
+Richard Mands, Head of Developer Relations at the IOTA Foundation, said:
+
+“The Build Now Contest marks an important checkpoint in the hackathon. Our team is carefully reviewing each submission as we prepare for the March 31 evaluation phase. What’s encouraging is the level of seriousness we’re seeing. The quality of architectural thinking and the depth of IOTA integration show that participants are building with long-term intent. We’re looking forward to seeing how these projects continue to mature in the final phase.”
+
+The date for the private session with the IOTA Foundation Product Adoption Team will be announced shortly.
+
+Congratulations to everyone — the quality of the projects is very high. Now it’s time to continue the building phase.🏆 
+@MasterZ
+
+{Reactions}
+🔥 (8) ❤️ (2) ✅
+
+[26/02/2026 15:38] masterzxiota
+Pinned a message.
+
+
+[26/02/2026 16:00] masterzxiota
+🚀 Move Challenges Session – Recap & Next Steps
+
+Yesterday’s session was designed to challenge you and test your skills in Move through practical exercises.
+
+If you missed it or want to review it:
+
+🎥 Recording:
+👉 https://youtu.be/JQC3_yvvWDw
+
+📘 Challenge tracks:
+👉 https://docs.iota.org/developer/iota-move-ctf/challenge_0
+
+Take your time to go through the challenges and strengthen your Move fundamentals.
+
+📅 Next Session – Saturday, February 28 at 10.00 CET
+
+We’ll dive into IOTA Notarization.
+
+📘 Documentation:
+👉 https://docs.iota.org/developer/workshops/iota-notarization-truedoc
+
+Make sure to review the material in advance and come prepared.
+
+Let’s keep building 💪
+@MasterZ
+
+{Embed}
+MasterZ Blockchain & Digital Assets
+https://www.youtube.com/watch?v=JQC3_yvvWDw
+MasterZxIOTA Hackathon-Challeges
+This session focuses on the practical Move challenges, designed to help you practice and strengthen your skills. You can access them here:
+https://docs.iota.org/developer/iota-move-ctf/challenge_0
+https://images-ext-1.discordapp.net/external/_jiqkqDu3jtgnj6z9zToB9uy2jP-bLi0PcYuOcPCJwU/https/i.ytimg.com/vi/JQC3_yvvWDw/sddefault.jpg
+
+{Embed}
+https://docs.iota.org/developer/iota-move-ctf/challenge_0
+Challenge 0: Mint Leap Frog NFT | IOTA Documentation
+In this challenge, your task is to mint the Leap Frog NFT. The package has already been deployed on the testnet, and the address of the deployed package is provided below.
+
+{Embed}
+https://docs.iota.org/developer/workshops/iota-notarization-truedoc
+Workshop IOTA Notarization with TrueDoc | IOTA Documentation
+Complete tutorial for building on-chain notarization on IOTA
+
+{Reactions}
+🔥 (6)
+
+[27/02/2026 09:55] masterzxiota
+🚀 Update – Training Sessions
+
+Small change of program, tomorrow Gas Station 
+
+Here’s the updated schedule:
+
+Gas Station – Saturday, February 28 at 10:00 AM CET (Gino – IOTA DevRel)
+Identity – Wednesday, March 3 at 6:00 PM CET (Gino– IOTA DevRel)
+Notarization – Saturday, March 7 at 10:00 AM CET (Vivek– IOTA DevRel)
+
+📅 The link to join is available in the Calendar.
+
+For tomorrow’s session on Gas Station, you can find the documentation here:
+👉 https://docs.iota.org/developer/workshops/gas-station-workshop
+
+Make sure to review the material in advance and come prepared.
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1476865429405171783/MasterZxIOTA_3.png?ex=69ae8b1d&is=69ad399d&hm=3a8b47917ed312210cfa4c205b4d46c7dec51a5a4d3949919da400f9b4c547aa&
+
+{Reactions}
+💡 (3) 🔥 (2) 📆 ✅ (2)
+
+[02/03/2026 10:44] masterzxiota
+🚀 Gas Station Session — Recording Available
+
+The February 28 session is now live:
+👉 https://youtu.be/mgg5h2_uRsI
+
+🚨 As those who attended live know, we experienced some connection and terminal issues during the session. For this reason, the lesson has been properly re-recorded. You can now find the full version at the link above.
+
+📘 Documentation:
+👉 https://docs.iota.org/developer/workshops/gas-station-workshop
+
+See you on Wednesday, March 4 for the next session on Digital Identity.
+
+@MasterZ
+
+{Embed}
+MasterZ Blockchain & Digital Assets
+https://www.youtube.com/watch?v=mgg5h2_uRsI
+GAS STATION
+WORKSHOP 4 — Gas Station
+
+In this workshop, we explore IOTA’s Gas Station model and sponsored transactions.
+
+Documentation:
+https://docs.iota.org/developer/workshops/gas-station-workshop
+https://images-ext-1.discordapp.net/external/xbrakFQCk_rEhpPv8UXW6j6T3qALBcJ8UR2sNjk5z1w/https/i.ytimg.com/vi/mgg5h2_uRsI/maxresdefault.jpg
+
+{Embed}
+https://docs.iota.org/developer/workshops/gas-station-workshop
+IOTA Gas Station Workshop | IOTA Documentation
+Workshop on Microblogging Platform using IOTA Gas Station
+
+{Reactions}
+👍 (4) 👏 carlos4 ❤️ (2)
+
+[04/03/2026 10:45] masterzxiota
+📢 Live Session Today – IOTA Identity Workshop
+
+Today at 18:00 CET we will have a live technical session on IOTA Identity.
+
+During the session we will walk through the official workshop material and explore how decentralized identity works within the IOTA ecosystem.
+
+📚 Workshop material:
+https://docs.iota.org/developer/workshops/identity-workshop
+
+Please use the link in your calendar to connect to the live session.
+
+See you at 18:00 CET!
+
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1478689893302403183/MasterZxIOTA_5.png?ex=69ae96c7&is=69ad4547&hm=a8d0a0cda917b4fe0a312c83ac96416bffcba8d7fb78afa3d945fd115927ba14&
+
+{Embed}
+https://docs.iota.org/developer/workshops/identity-workshop
+IOTA Identity Workshop | IOTA Documentation
+Workshop on Validating a University Degree using IOTA Identity
+
+{Reactions}
+👍 (2) 👌 (2)
+
+[05/03/2026 13:44] masterzxiota (pinned)
+🚨 Private Lesson Announcement – Build Now Contest
+
+We are pleased to announce the next private workshop for the Build Now Contest participants.
+
+🧠 Topic: Building with IOTA Trust Framework
+
+👨‍🏫 Speakers:
+• Lautaro Giambroni – Senior Product Manager, IOTA
+• Valerio Mellini – Blockchain Solutions Architect, IOTA
+
+📅 Date: 10 March 2026
+⏰ Time: 3:00 PM CET
+
+This session will explore how to build using the IOTA Trust Framework, providing valuable insights for teams currently developing their projects.
+
+***💬 There will also be ample time for Q&A, so you’ll have the opportunity to ask questions directly to the IOTA team.***
+
+📅 The connection link will be shared soon in your private discord group. Recorded lesson wiil be avaible after 24h
+
+We look forward to seeing you there and helping you move your projects forward 🚀
+
+
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1479097157687574685/MasterZxIOTA_6.png?ex=69ae17d2&is=69acc652&hm=4b35ed1b4ff6b5e34cfe3424a004b53e8dd5baee706bad288055e9bcf62e48f2&
+
+{Reactions}
+🔥 (5) 💪 (2) 🚀
+
+[05/03/2026 13:44] masterzxiota
+Pinned a message.
+
+
+[06/03/2026 14:35] masterzxiota
+🚨  Lesson Reminder
+
+Tomorrow at 10:00 AM CET we will have the next session of the MasterZ × IOTA Hackathon.
+
+🧠 Topic: IOTA Notarization
+👨‍🏫 Speaker: Vivek – DevRel, IOTA Foundation
+📅 Date: Tomorrow
+⏰ Time: 10:00 AM CET
+https://docs.iota.org/developer/workshops/iota-notarization-truedoc
+
+This session will explore how IOTA Notarization works and how you can integrate it into your MVP. 
+
+
+🔗 The connection link is already available in your calendar.
+
+See you tomorrow builders 🚀
+@MasterZ
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1460574750647783434/1479472524239835278/MasterZxIOTA_9.png?ex=69ae23e9&is=69acd269&hm=08457342660ead4694fb2de959d381e2f8c8350ae355e085d6963126764e70f5&
+
+{Embed}
+https://docs.iota.org/developer/workshops/iota-notarization-truedoc
+Workshop IOTA Notarization with TrueDoc | IOTA Documentation
+Complete tutorial for building on-chain notarization on IOTA
+
+{Reactions}
+🔥 (4)
+
+==============================================================
+Exported 35 message(s)
+==============================================================

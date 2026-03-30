@@ -30,7 +30,7 @@ ORACLE_SECRET_KEY=iotaprivkey1qrvdxhu790v485j4jz9mmrm98f5u4avraevw6vc5ahl6hnt9xx
 NEXT_PUBLIC_IOTA_RPC_URL=https://api.testnet.iota.cafe
 
 # ID dell'asset demo (questo valore viene automaticamente aggiornato dall'API al primo mint dalla UI)
-NEXT_PUBLIC_DEMO_ASSET_ID=0x0a407dfba213ab86b7c467d98298f7324ecf8ae3b85132405206866176f36d9c
+NEXT_PUBLIC_DEMO_ASSET_ID=0x1ff6ac8a4e7e11118c53d6dd334ec0ff046f89588f8fe053cf2f8e3352c50e8a
 ```
 
 *(Nota: L'ID del `NEXT_PUBLIC_DEMO_ASSET_ID` cambierà o verrà inizializzato se deciderai di effettuare il mint di un nuovo asset dalla UI).*

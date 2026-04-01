@@ -1,140 +1,140 @@
 # IOTA Asset Digital Twin MVP
 
-Questo progetto è un **MVP (Minimum Viable Product)** che dimostra l'integrazione di un frontend Next.js con uno Smart Contract Move sulla rete **IOTA Testnet**. Permette di creare (mintare) un "Digital Twin" (gemello digitale) di un asset di lusso e di aggiornarne l'integrità tramite scansioni hardware simulate.
+This project is an **MVP (Minimum Viable Product)** that demonstrates the integration of a Next.js frontend with a Move smart contract on the **IOTA Testnet**. It allows you to create (mint) a "Digital Twin" of a luxury asset and update its integrity through simulated hardware scans.
 
-## Prerequisiti
+## Prerequisites
 
-Per eseguire correttamente e testare l'MVP è necessario avere installato sulla propria macchina:
-- **Node.js** (versione 18 o superiore consigliata)
-- **NPM** (o comandi equivalenti come pnpm o yarn)
-- *(Opzionale)* **IOTA CLI** (solo se si desidera modificare e ripubblicare lo Smart Contract).
+To run and test the MVP correctly, you need the following installed on your machine:
+- **Node.js** (version 18 or higher recommended)
+- **NPM** (or equivalent commands such as pnpm or yarn)
+- *(Optional)* **IOTA CLI** (only if you want to modify and republish the smart contract).
 
 ---
 
-## 🚀 1. Configurazione Rapida (Ambiente di Testnet)
+## 🚀 1. Quick Setup (Testnet Environment)
 
-Attualmente il progetto è **già configurato** per puntare alla Testnet di IOTA e interagire con il contratto precedentemente pubblicato.  
-Verifica che nella root del progetto sia presente il file `.env.local` con i seguenti parametri (le chiavi qui riportate sono quelle attuali di test, non presentano problemi di sicurezza in Testnet):
+The project is currently **already configured** to point to IOTA Testnet and interact with the previously deployed contract.  
+Make sure the `.env.local` file exists at the project root with the following parameters (the keys shown here are the current test keys and do not pose any security issues on Testnet):
 
 ```env
-# Indirizzo del Package Move pubblicato
+# Address of the published Move package
 NEXT_PUBLIC_PACKAGE_ID=0x831cf24d48b4a426ee416581a6094f656a4348283db67b8ab5e589fce2b5dca4
 
-# L'ID dell'oggetto OracleCap che dà all'account l'autorizzazione di validare le transazioni dello scanner
+# ID of the OracleCap object that gives the account authorization to validate scanner transactions
 ORACLE_CAP_ID=0xf0efdb3caf0b7204e885915b2c6ad2b42df1f1f9c167385b1bd72127cc50272f
 
-# Chiave privata del Wallet/Oracolo autorizzato a firmare (formato bech32)
+# Private key of the authorized Wallet/Oracle used to sign (bech32 format)
 ORACLE_SECRET_KEY=iotaprivkey1qrvdxhu790v485j4jz9mmrm98f5u4avraevw6vc5ahl6hnt9xxxav7nl58y
 
-# L'endpoint RPC per connettersi alla Testnet di IOTA
+# RPC endpoint used to connect to IOTA Testnet
 NEXT_PUBLIC_IOTA_RPC_URL=https://api.testnet.iota.cafe
 
-# ID dell'asset demo (questo valore viene automaticamente aggiornato dall'API al primo mint dalla UI)
+# Demo asset ID (value read from the `.env.local` file; update this field manually if you regenerate the mint)
 NEXT_PUBLIC_DEMO_ASSET_ID=0x1ff6ac8a4e7e11118c53d6dd334ec0ff046f89588f8fe053cf2f8e3352c50e8a
 ```
 
-*(Nota: L'ID del `NEXT_PUBLIC_DEMO_ASSET_ID` cambierà o verrà inizializzato se deciderai di effettuare il mint di un nuovo asset dalla UI).*
+*(Note: the `NEXT_PUBLIC_DEMO_ASSET_ID` value must be updated manually only if you decide to change the asset or mint again).*
 
 ---
 
-## 🛠️ 2. Avvio dell'Applicazione (Frontend)
+## 🛠️ 2. Starting the Application (Frontend)
 
-Una volta verificata la presenza del file `.env.local`, apri un nuovo terminale, assicurati di essere nella cartella root del progetto (`progetto-finale-iota`) ed esegui i seguenti passaggi:
+Once the `.env.local` file is present, open a new terminal, make sure you are in the project root folder (`progetto-finale-iota`) and run the following steps:
 
-1. **Installa tutte le dipendenze**:
+1. **Install all dependencies**:
    ```bash
    npm install
    ```
-2. **Avvia il server Web locale**:
+2. **Start the local web server**:
    ```bash
    npm run dev
    ```
 
-A questo punto, il terminale confermerà che l'applicazione è in ascolto all'indirizzo indicato.
+At this point, the terminal will confirm that the application is listening on the indicated address.
 
 ---
 
-## 🧪 3. Testare Il Flusso (MVP)
+## 🧪 3. Testing the Flow (MVP)
 
-1. Apri il browser web e vai all'indirizzo fornito dal terminale: **`http://localhost:3000`**.
-2. **Creazione (Mint) di un nuovo Asset**: 
-   - Tramite l'interfaccia principale sarà possibile simulare la registrazione di un Digital Twin.
-   - Cliccando l'apposito pulsante o caricando un nuovo pezzo, il frontend contatterà l'API Backend interna (`POST /api/mint`).
-   - L'API firmerà e completerà una transazione sulla IOTA Testnet per creare un nuovo oggetto on-chain, aggiornando allo stesso tempo l'identificativo demo del `.env.local` in background.
-3. **Simulazione dello Scan (Aggiornamento Integrità)**:
-   - Una volta visualizzati i dettagli dell'Asset a schermo, potrai simulare uno "Scanner Hardware" che valuta lo stato del prodotto di lusso.
-   - Avvia lo Scan per chiamare l'API `/api/scan`. Durante questo processo, l'Oracolo configge la firma di validità (usando `ORACLE_SECRET_KEY` e `ORACLE_CAP_ID`) e autorizza lo smart contract ad aggiornare i parametri e lo storico tracciamento.
-   - A transazione confermata, i dati si aggiorneranno automaticamente sul frontend prelevati in real-time dalla Blockchain di IOTA.
+1. Open the web browser and go to the address provided by the terminal: **`http://localhost:3000`**.
+2. **Create (Mint) a New Asset**:
+   - Through the main interface, you can simulate the registration of a Digital Twin.
+   - By clicking the dedicated button or loading a new item, the frontend will contact the internal backend API (`POST /api/mint`).
+   - The API will sign and complete a transaction on IOTA Testnet to create a new on-chain object, while also updating the demo identifier in `.env.local` in the background.
+3. **Simulating the Scan (Integrity Update)**:
+   - Once the asset details are visible on screen, you can simulate a "Hardware Scanner" that evaluates the status of the luxury product.
+   - Start the scan to call the `/api/scan` API. During this process, the Oracle signs the validity proof (using `ORACLE_SECRET_KEY` and `ORACLE_CAP_ID`) and authorizes the smart contract to update the parameters and tracking history.
+   - Once the transaction is confirmed, the data will update automatically on the frontend, pulled in real time from the IOTA blockchain.
 
 ---
 
-## 📋 4. (Avanzato) Come Ripubblicare lo Smart Contract
+## 📋 4. (Advanced) How to Republish the Smart Contract
 
-*(Saltare questo paragrafo se si sta solo testando l'app senza modificare il codice Move).*
+*(Skip this section if you are only testing the app without modifying the Move code).*
 
-Se hai apportato personalizzazioni ai file all'interno della cartella `move/`, affinché le modifiche dello Smart Contract abbiano effetto, dovrai eseguire un nuovo deploy:
+If you have customized files inside the `move/` folder, and you want the smart contract changes to take effect, you need to deploy again:
 
-1. Apri un terminale nella sottocartella `move/`:
+1. Open a terminal in the `move/` subfolder:
    ```bash
    cd move
    ```
-2. Esegui la pubblicazione sulla rete (nota: devi avere impostato `iota client` connesso a `testnet` e disporre di gas sufficiente reperito via faucet):
+2. Publish to the network (note: you must have `iota client` configured and connected to `testnet`, and have sufficient gas obtained via faucet):
    ```bash
    iota client publish --gas-budget 100000000
    ```
-3. Tra gli "Object Changes" del log fornito a terminale, annota:
-   - Il nuovo **Package ID** da sostituire in `NEXT_PUBLIC_PACKAGE_ID`.
-   - Il nuovo l'ID dell'oggetto creato col ruolo di `OracleCap` da sostituire in `ORACLE_CAP_ID`.
-4. Effettua tutte le sostituzioni di questi campi all'interno del file `.env.local` e riavvia (`Ctrl+C` poi `npm run dev`) il server di sviluppo Next.js per far sì che prenda in carico le nuove variabili.
+3. In the "Object Changes" section of the terminal log, note:
+   - The new **Package ID** to replace in `NEXT_PUBLIC_PACKAGE_ID`.
+   - The new ID of the object created as `OracleCap` to replace in `ORACLE_CAP_ID`.
+4. Replace all of these fields inside the `.env.local` file and restart the Next.js development server (`Ctrl+C` then `npm run dev`) so it picks up the new variables.
 
 ---
 
-## 🧠 5. Appendice: Dietro le quinte (Comandi CLI IOTA usati)
+## 🧠 5. Appendix: Behind the Scenes (IOTA CLI Commands Used)
 
-Per farti capire come l'intero progetto è stato imbastito dall'inizio e come sono stati generati i vari indirizzi e le chiavi, ecco il flusso logico dei comandi **IOTA CLI** che sono stati utilizzati per preparare l'ambiente:
+To show how the whole project was set up from the beginning and how the various addresses and keys were generated, here is the logical flow of the **IOTA CLI** commands that were used to prepare the environment:
 
-### A. Setup dell'Ambiente e del Wallet
-1. **Configurare il client verso la Testnet:**
+### A. Environment and Wallet Setup
+1. **Configure the client for Testnet:**
    ```bash
    iota client new-env --alias testnet --rpc https://api.testnet.iota.cafe
    iota client switch --env testnet
    ```
-   *(Questo imposta il tuo client locale per puntare alla rete di test di IOTA, anziché alla Mainnet o alla Devnet).*
+   *(This configures your local client to point to the IOTA test network instead of Mainnet or Devnet).*
 
-2. **Generare un nuovo indirizzo per l'Account principale:**
+2. **Generate a new address for the main account:**
    ```bash
    iota client new-address ed25519
    ```
-   *(Crea un nuovo indirizzo che farà da creatore e da owner del Package quando viene pubblicato lo Smart Contract).*
+   *(Creates a new address that will act as creator and owner of the Package when the smart contract is published).*
 
-3. **Richiedere GAS (IOTA di test) per pagare le transazioni:**
+3. **Request GAS (test IOTA) to pay for transactions:**
    ```bash
    iota client faucet
    ```
-   *(Invia una richiesta al Faucet della Testnet per accreditare alcuni IOTA gratuiti all'indirizzo appena creato, necessari per pagare le tasse di pubblicazione).*
+   *(Sends a request to the Testnet faucet to credit some free IOTA to the newly created address, which are needed to pay publication fees).*
 
-### B. Setup delle Chiavi Oracolo (per il Frontend)
-L'applicazione Next.js funge da "Oracolo" (o Scanner simulato) che ha bisogno di *firmare* le transazioni di validità in background senza far aprire il wallet all'utente.
-1. **Generare la chiave privata (`ORACLE_SECRET_KEY`):**
+### B. Oracle Key Setup (for the Frontend)
+The Next.js application acts as an "Oracle" (or simulated scanner) that needs to *sign* validity transactions in the background without opening the user's wallet.
+1. **Generate the private key (`ORACLE_SECRET_KEY`):**
    ```bash
    iota keytool generate ed25519
    ```
-   *(Questo comando stampa a video un indirizzo e la sua chiave privata associata nel formato `iotaprivkey...`. Abbiamo preso questa chiave e l'abbiamo salvata nel file `.env.local`).*
+   *(This command prints an address and its associated private key in the `iotaprivkey...` format. We took this key and saved it in the `.env.local` file).*
 
-### C. Build e Deploy dello Smart Contract Move
-1. **Compilare il contratto:**
+### C. Build and Deploy the Move Smart Contract
+1. **Compile the contract:**
    ```bash
    cd move
    iota move build
    ```
-   *(Verifica che il codice `.move` o il file `Move.toml` non abbiano errori di sintassi).*
+   *(Verifies that the `.move` code or the `Move.toml` file do not contain syntax errors).*
 
-2. **Pubblicare il contratto sulla Blockchain:**
+2. **Publish the contract on the blockchain:**
    ```bash
    iota client publish --gas-budget 100000000
    ```
-   *(Questo è il comando fondamentale. Invia il bytecode compilato alla rete. La rete esegue la transazione, consuma il Gas specificato, e restituisce il **Package ID** e la lista degli oggetti generati. Tra gli oggetti generati dalla funzione `init` del contratto c'è anche l'`OracleCap`, che abbiamo poi inserito nel file `.env.local` per dare all'Oracolo i permessi per interagire).*
+   *(This is the key command. It sends the compiled bytecode to the network. The network executes the transaction, consumes the specified gas, and returns the **Package ID** and the list of generated objects. Among the objects generated by the contract's `init` function there is also the `OracleCap`, which we then inserted into the `.env.local` file to give the Oracle permissions to interact).*
 
 ---
 
-**Fine.** Il progetto è un prototipo pensato per testare a costo zero e sulla sicura Testnet le transazioni tipiche per il controllo del mercato secondario/integrità di beni attraverso Web3.
+**End.** The project is a prototype designed to test, at no cost and on the secure Testnet, the typical transactions for controlling the secondary market and integrity of goods through Web3.
